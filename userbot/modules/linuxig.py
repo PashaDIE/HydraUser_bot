@@ -60,5 +60,5 @@ async def insta(event):
 
 # Linux - Userbot
 # Feri
-CMD_HELP.update({"instagram": "**Modules:** __Instagram__\n\n🐧CMD🐧: `.ig`"
+CMD_HELP.update({"instagram": "**Modules:** __Instagram__\n\n�🐍CMD�🐍: `.ig`"
                  "\n**Penjelasan:** Download Media di Postingan Instagram, Balas ke link instagram ketik `.ig`"})
