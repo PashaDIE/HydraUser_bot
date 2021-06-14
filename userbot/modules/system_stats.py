@@ -419,8 +419,8 @@ CMD_HELP.update({"alive": "�🐍CMD�🐍: `.alive` atau `.on` dan `.team`"
 CMD_HELP.update(
     {
         "botversion":
-        "🐧CMD🐧: `.botver`"
+        "�🐍CMD�🐍: `.botver`"
         "\n↳ : Menampilkan versi userbot."
-        "\n\n🐧CMD🐧: `.pip` <module(s)>"
+        "\n\n�🐍CMD�🐍: `.pip` <module(s)>"
         "\n↳ : Melakukan pencarian modul pip(s)."
     })
