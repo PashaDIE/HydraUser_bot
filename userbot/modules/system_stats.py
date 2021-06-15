@@ -14,7 +14,7 @@ import time
 from datetime import datetime
 import psutil
 
-from userbot import ALIVE_LOGO, ALIVE_NAME, BOT_VER, CMD_HELP, LINUX_TEKS_KUSTOM, StartTime, UPSTREAM_REPO_BRANCH, bot
+from userbot import ALIVE_LOGO, ALIVE_NAME, BOT_VER, CMD_HELP, HYDRA_TEKS_KUSTOM, StartTime, UPSTREAM_REPO_BRANCH, bot
 from userbot.events import register
 
 
@@ -419,7 +419,7 @@ CMD_HELP.update({"alive": "�🐍CMD�🐍: `.alive` atau `.on` dan `.team`"
 CMD_HELP.update(
     {
         "botversion":
-        "�🐍CMD�🐍: `.botver`"
+        "\n\n�🐍CMD�🐍: `.botver`"
         "\n↳ : Menampilkan versi userbot."
         "\n\n�🐍CMD�🐍: `.pip` <module(s)>"
         "\n↳ : Melakukan pencarian modul pip(s)."
